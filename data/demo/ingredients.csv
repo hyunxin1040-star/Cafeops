@@ -1,0 +1,9 @@
+ingredient_id,name,unit,current_qty,unit_cost,min_order_qty
+milk,우유,L,14,2600,6
+bean,원두,kg,5.4,24000,1
+strawberry,딸기,kg,6.2,7200,2
+syrup,시럽,L,4,9000,1
+tea,티베이스,L,3,12000,1
+cream,생크림,L,2.5,8000,1
+bread,빵생지,ea,38,1100,20
+ham,햄,kg,2.2,13000,1

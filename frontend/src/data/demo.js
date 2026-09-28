@@ -74,6 +74,7 @@ export const staffing = {
     { name: '현우', wage: 13000, available: '11–22' },
     { name: '민지', wage: 12000, available: '14–22' },
     { name: '도윤', wage: 12500, available: '17–22' },
+    { name: '하린', wage: 12000, available: '09–14' },
   ],
 };
 

@@ -1,0 +1,16 @@
+menu_name,ingredient_id,quantity,unit
+americano,bean,0.018,kg
+cafe_latte,bean,0.018,kg
+cafe_latte,milk,0.25,L
+vanilla_latte,bean,0.018,kg
+vanilla_latte,milk,0.25,L
+vanilla_latte,syrup,0.02,L
+strawberry_latte,strawberry,0.12,kg
+strawberry_latte,milk,0.25,L
+iced_tea,tea,0.18,L
+cold_brew,bean,0.022,kg
+espresso,bean,0.018,kg
+croissant,bread,1,ea
+financier,cream,0.03,L
+sandwich,bread,1,ea
+sandwich,ham,0.08,kg
